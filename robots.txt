@@ -1,0 +1,3 @@
+# https://www.robotstxt.org/robotstxt.html
+Agente do usuário:  *
+Não permitir:
